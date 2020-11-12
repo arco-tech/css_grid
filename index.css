@@ -1,11 +1,11 @@
-.grid__container {
+.grid--container {
   width: 100%;
   display: flex;
   flex-wrap: wrap;
   box-sizing: border-box;
 }
 
-.grid__item {
+.grid--item {
   margin: 0;
   box-sizing: border-box;
 }
